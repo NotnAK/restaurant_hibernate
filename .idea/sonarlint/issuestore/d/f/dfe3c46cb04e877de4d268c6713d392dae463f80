@@ -1,0 +1,48 @@
+
+‰
+java:S1192V"FDefine a constant instead of duplicating this literal "kg - " 3 times.(í¿ó8ÕáÉ¥2J$7d59a781-c518-49be-ab43-8394ac42ee67
+–
+java:S1192V"SDefine a constant instead of duplicating this literal "Discount available" 3 times.(í¿ó8ÖáÉ¥2J$66ded931-63ad-4a7a-b9fd-6f0297eb25ee
+
+java:S1192V"LDefine a constant instead of duplicating this literal "No discount" 3 times.(í¿ó8ÖáÉ¥2J$4ae9e787-9d12-4da5-8264-d4939001b11b
+k
+java:S5411V"(Use a primitive boolean expression here.(í¿ó8ØáÉ¥2J$5a078a1e-7bc7-48b1-a2ae-69415407b28c
+k
+java:S5411^"(Use a primitive boolean expression here.(í¿ó8ØáÉ¥2J$0e1f24c7-82d4-4979-a95b-7d7c85b458f2
+k
+java:S5411i"(Use a primitive boolean expression here.(í¿ó8ØáÉ¥2J$750a610c-abd9-4a91-b303-67f7184081d3
+m	java:S106"+Replace this use of System.out by a logger.( Ó¶¿8ÿáÉ¥2J$ee4be16e-8aa9-4d35-a411-78e4ece9f0f3
+m	java:S106"+Replace this use of System.out by a logger.(·ÏÉ8€âÉ¥2J$435eb7d7-7c5b-4cdd-b1bf-ef5db9e9b650
+r	java:S106"+Replace this use of System.out by a logger.(ì¶âƒıÿÿÿÿ8€âÉ¥2J$67406dee-b487-4777-9691-2d094d678f51
+r	java:S106"+Replace this use of System.out by a logger.(ûÄµ…úÿÿÿÿ8€âÉ¥2J$45608378-6c01-4e34-995f-efb74a8e9e66
+r	java:S106 "+Replace this use of System.out by a logger.(¢´¥‘úÿÿÿÿ8âÉ¥2J$ca4f0286-8615-49d0-8a96-0d596532e4c4
+r	java:S106%"+Replace this use of System.out by a logger.(ø¡Çéûÿÿÿÿ8‚âÉ¥2J$4878cb30-660f-4dee-8cf5-51902d7d953d
+m	java:S106+"+Replace this use of System.out by a logger.(©Ï»8„âÉ¥2J$329d7330-bad1-44d1-ae85-59d178ce70ab
+r	java:S106."+Replace this use of System.out by a logger.(çë…»ÿÿÿÿÿ8„âÉ¥2J$d4dd3b96-ef23-40be-aa30-10c9bc2c0b3c
+r	java:S1063"+Replace this use of System.out by a logger.(£äüÿÿÿÿ8„âÉ¥2J$446f1208-80b6-414b-9f94-a6cd42ae0f06
+r	java:S1067"+Replace this use of System.out by a logger.(¯×Ã°úÿÿÿÿ8…âÉ¥2J$9f4cca0d-572b-4e5c-bf06-14aecb54f00a
+m	java:S1069"+Replace this use of System.out by a logger.(Ü¶¬8…âÉ¥2J$61681185-c0e2-47a7-920c-64a8d0952c1d
+r	java:S106;"+Replace this use of System.out by a logger.(‘¸‚åşÿÿÿÿ8†âÉ¥2J$9686c9dd-28a5-4cab-9369-9f0894b8018c
+r	java:S106="+Replace this use of System.out by a logger.(ûÄµ…úÿÿÿÿ8†âÉ¥2J$978490e6-3d0e-4400-861a-dec7da619fe1
+m	java:S106A"+Replace this use of System.out by a logger.(©Ï»8‡âÉ¥2J$7ec98984-c8ff-43fe-b833-fec613716a97
+m	java:S106D"+Replace this use of System.out by a logger.(Úİ–”8‡âÉ¥2J$718a3e55-87c8-453f-8414-802a1ce3ba0d
+r	java:S106J"+Replace this use of System.out by a logger.(×‹ÏÖıÿÿÿÿ8‰âÉ¥2J$1b1838d0-aec2-467a-aef4-addbc4bc315a
+r	java:S106L"+Replace this use of System.out by a logger.(‚òÕÍÿÿÿÿÿ8ŠâÉ¥2J$c7cf2cae-b90d-4c1e-98e4-8c55c5ee8bc0
+m	java:S106Q"+Replace this use of System.out by a logger.(©Ÿ®¨8‹âÉ¥2J$375966e9-a2f4-48de-94d4-257736043297
+m	java:S106S"+Replace this use of System.out by a logger.(‡È÷Ü8ŒâÉ¥2J$32b74c21-d649-4db0-b3c5-e53f4b7e3cfc
+m	java:S106V"+Replace this use of System.out by a logger.(í¿ó8âÉ¥2J$4872b042-8f46-4f52-9db3-3fd7a9640d0d
+r	java:S106X"+Replace this use of System.out by a logger.(ïÏªëşÿÿÿÿ8âÉ¥2J$22681cd6-de1c-44a8-b6d6-19db161ced8b
+m	java:S106^"+Replace this use of System.out by a logger.(í¿ó8âÉ¥2J$b911899b-af77-41bf-9001-264fc49104d4
+r	java:S106`"+Replace this use of System.out by a logger.(ÖĞ—ûÿÿÿÿ8âÉ¥2J$310dc7a5-eb43-4858-9e5d-28fc47b97381
+m	java:S106f"+Replace this use of System.out by a logger.(Ûµè8âÉ¥2J$5d3caefd-a5b6-42e5-b64f-28f3df0021f3
+m	java:S106i"+Replace this use of System.out by a logger.(í¿ó8âÉ¥2J$2562e805-b58a-4c67-a0a8-e09821770a9e
+m	java:S106k"+Replace this use of System.out by a logger.(‚Š‚û8‘âÉ¥2J$bd7a5d3e-4ef3-4a18-a40c-f4e90708abac
+m	java:S106s"+Replace this use of System.out by a logger.(ë¿Æå8’âÉ¥2J$360cb058-70c5-4cbf-92ce-3be122001573
+`
+java:S2119x"Save and re-use this "Random".(¼İÅf8œÉÒ¥2J$e2bfd989-2f3a-489a-9815-a534d3a86a0d
+i
+java:S2111~"!Use "BigDecimal.valueOf" instead.(èÕ¡µıÿÿÿÿ8§ìÒ¥2J$ac172ee8-73ae-4ae5-8e2d-0354d6daebc4
+i
+java:S2111"!Use "BigDecimal.valueOf" instead.(Ø²ä®ÿÿÿÿÿ8©ìÒ¥2J$6fa3f7c8-b09f-4226-8fd0-c27128c0c57f
+s	java:S106…"+Replace this use of System.out by a logger.(Š¨ó÷şÿÿÿÿ8ÉÒ¥2J$18d82cb9-c31d-4887-b84e-8b500ed283fe
+n	java:S106‡"+Replace this use of System.out by a logger.(èÄÉ½8ÉÒ¥2J$2449ac72-77eb-4df1-9708-08c776ed4deb
